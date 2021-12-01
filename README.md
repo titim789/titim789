@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @titim789
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Titus Low
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Algorithms
+- 💞️ I’m looking to collaborate on any Software Engineering Projects
+- 📫 How to reach me: tituslhy97@gmail.com
 
 <!---
 titim789/titim789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
