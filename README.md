@@ -9,7 +9,9 @@ titim789/titim789 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+```python
 class ComputerScienceStudent:
+      
       def __init__(self):
           self.name = "Titus Low"
           self.univ = "Nanyang Technological University"
@@ -17,5 +19,7 @@ class ComputerScienceStudent:
       
       def say_hi(self):
           print("Thank you for dropping by "+self.name+"'s Repository! Hope you find something interesting here!")
+
 me = ComputerScienceStudent()
 me.say_hi()
+```
