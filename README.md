@@ -23,3 +23,5 @@ class ComputerScienceStudent:
 me = ComputerScienceStudent()
 me.say_hi()
 ```
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=titim789&theme=blue-green)
